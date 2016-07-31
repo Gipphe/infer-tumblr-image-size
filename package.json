@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gipphe/infer-tumblr-image-size.git"
+    "url": "git+https://github.com/Gipphe/infer-tumblr-image-size.git"
   },
   "engines": {
     "node": ">=0.10.0"
@@ -25,9 +25,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gipphe/infer-tumblr-image-size/issues"
+    "url": "https://github.com/Gipphe/infer-tumblr-image-size/issues"
   },
-  "homepage": "https://github.com/gipphe/infer-tumblr-image-size#readme",
+  "homepage": "https://github.com/Gipphe/infer-tumblr-image-size#readme",
   "dependencies": {},
   "devDependencies": {
     "better-assert": "^1.0.2",

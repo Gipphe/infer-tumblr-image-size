@@ -1,4 +1,4 @@
-# infer-tumblr-image-size [![Build Status](https://travis-ci.org/gipphe/infer-tumblr-image-size.svg?branch=master)](https://travis-ci.org/gipphe/infer-tumblr-image-size)
+# infer-tumblr-image-size [![Build Status](https://travis-ci.org/Gipphe/infer-tumblr-image-size.svg?branch=master)](https://travis-ci.org/Gipphe/infer-tumblr-image-size)
 
 > Infer the image size of a tumblr image based on its url
 
@@ -25,7 +25,7 @@ inferSize('http://foo.tumblr.com/bar_baz_1280.png');
 
 ## Related
 
-- [tp](https://github.com/gipphe/tp) - Pull images from tumblr blog
+- [tp](https://github.com/Gipphe/tp) - Pull images from tumblr blog
 
 
 ## License
