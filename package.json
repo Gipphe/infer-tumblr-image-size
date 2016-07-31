@@ -4,7 +4,7 @@
   "description": "Infers the image size of a tumblr image based on its url",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "node node_modules/mocha/bin/_mocha test.js"
   },
   "repository": {
     "type": "git",
