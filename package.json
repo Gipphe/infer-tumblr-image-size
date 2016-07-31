@@ -1,0 +1,29 @@
+{
+  "name": "infer-tumblr-image-size",
+  "version": "0.1.0",
+  "description": "Infers the image size of a tumblr image based on its url",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gipphe/infer-tumblr-image-size.git"
+  },
+  "keywords": [
+    "tumblr",
+    "image",
+    "size"
+  ],
+  "author": "Victor Nascimento Bakke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gipphe/infer-tumblr-image-size/issues"
+  },
+  "homepage": "https://github.com/gipphe/infer-tumblr-image-size#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "better-assert": "^1.0.2",
+    "mocha": "^2.5.3"
+  }
+}
