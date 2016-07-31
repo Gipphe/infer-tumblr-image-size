@@ -1,6 +1,6 @@
 {
   "name": "infer-tumblr-image-size",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Infers the image size of a tumblr image based on its url",
   "main": "index.js",
   "scripts": {
