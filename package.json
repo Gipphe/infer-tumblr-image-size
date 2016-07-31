@@ -10,12 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/gipphe/infer-tumblr-image-size.git"
   },
+  "engines": {
+    "node": ">=0.10.0"
+  },
   "keywords": [
     "tumblr",
     "image",
     "size"
   ],
-  "author": "Victor Nascimento Bakke",
+  "author": {
+    "name": "Victor Nascimento Bakke",
+    "email": "gipphe@gmail.com",
+    "url": "giphtbase.org"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gipphe/infer-tumblr-image-size/issues"
