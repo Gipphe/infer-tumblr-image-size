@@ -1,0 +1,16 @@
+image: node:5.9.0
+cache:
+  paths:
+    - node_modules/
+
+stages:
+  - build
+  - test
+
+specs:
+  script:
+    - npm install -g --loglevel silent mocha
+    - npm install -g --loglevel silent istanbul
+    - npm i --loglevel silent
+    - npm run coverage
+  stage: test
